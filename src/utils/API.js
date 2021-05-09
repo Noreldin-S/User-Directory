@@ -1,9 +1,8 @@
 import axios from "axios";
 
-const URL = "https://randomuser.me/api/?results=50&nat=us"
+export default{ 
+    getUsers:function(){    
 
-export default {
-    getEmployees: function() {
-        return axios.get(URL);
+        return axios.get("https://randomuser.me/api/?results=200&nat=us");
     }
-}
+};
