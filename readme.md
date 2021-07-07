@@ -1,9 +1,7 @@
-
-- [Usage](#usage)
-- [Visualization of App Interface](#visualization-of-app-interface)
-- [Contribute](#contribute)
-  - [Author](#author)
-
+[Author](#author)
+[Contribute](#contribute)
+[Visualization of App Interface](#visualization-of-app-interface)
+[Usage](#usage)
 ---
 
 ### About UserDirectory
@@ -27,7 +25,7 @@ REACT web application that allows allowing the user to visualize all Employees p
 
 ## Visualization of App Interface
 
-![NightIn visualization]()
+![NightIn visualization](./public/EmployeeDirectory.png)
 ​
 
 ## Contribute
@@ -36,5 +34,5 @@ Please submit [bugs and feature requests](https://github.com/Noreldin-S/User-Dir
 
 ### Author
 
-[Kathleen Dorse](https://github.com/Noreldin-S/)
+[Noreldin Saad](https://github.com/Noreldin-S/)
 
