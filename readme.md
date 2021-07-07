@@ -25,7 +25,7 @@ REACT web application that allows allowing the user to visualize all Employees p
 
 ## Visualization of App Interface
 
-![NightIn visualization](./public/EmployeeDirectory.png)
+![NightIn visualization](./public/React-App.gif)
 ​
 
 ## Contribute
