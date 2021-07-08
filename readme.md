@@ -12,7 +12,7 @@ https://github.com/Noreldin-S/User-Directory
 
 ### Live Link to Deployed App
 
-[UserDirectory](https://github.com/Noreldin-S/User-Directory/)
+[UserDirectory](https://emplodir.herokuapp.com/)
 
 ### Technologies and APIs Used
 
