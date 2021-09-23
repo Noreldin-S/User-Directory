@@ -9,7 +9,7 @@
 
 ### About UserDirectory
 
-REACT web application that allows allowing the user to visualize all Employees pertinent details, search by keyword and filter results.
+REACT web application that allows the user to visualize all Employees pertinent details, search by keyword and filter results.
 
 https://github.com/Noreldin-S/User-Directory
 
